@@ -11,6 +11,12 @@
 
 ## 🖥️ System Architecture & Visual Wiring Layout
 
+### 🔌 Graphical Schematic & Pinout Diagrams
+
+![Camera Car with Mecanum Wheels](Diagrams/Camera%20Car%20with%20Mecanum%20Wheels.png)
+
+
+
 ```
 ┌── ESP32 MECANUM CAMERA ROVER SYSTEM ────────────────────────────────────┐
 │                                                                         │
